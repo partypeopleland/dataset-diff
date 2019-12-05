@@ -14,7 +14,7 @@ Provide two sets of collection and comparison conditions, and return the differe
 ### Sample Code
 
 ```javascript
-var tool = require('mergeData');
+var tool = require('dataset-diff');
 
 var data1 = [
 	{ id: 1, tag: 'apple', score: 71, age: 18 },
