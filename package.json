@@ -1,0 +1,24 @@
+{
+	"name": "dataset-diff",
+	"version": "1.0.0",
+	"description": "合併差異資料",
+	"main": "./src/index.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"keywords": [
+		""
+	],
+	"author": "art <partypeopleland@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/core": "^7.7.4",
+		"chai": "^4.2.0",
+		"mocha": "^6.2.2",
+		"webpack": "^4.41.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/partypeopleland/dataset-diff.git"
+	}
+}
