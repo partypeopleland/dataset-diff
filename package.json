@@ -1,7 +1,7 @@
 {
 	"name": "dataset-diff",
 	"version": "1.0.0",
-	"description": "合併差異資料",
+	"description": "get Diff data",
 	"main": "./src/index.js",
 	"scripts": {
 		"test": "mocha"
