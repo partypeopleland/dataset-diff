@@ -1,9 +1,8 @@
-var mocha = require('mocha');
-var chai = require('chai');
+const mocha = require('mocha');
+const chai = require('chai');
 chai.should();
 
-var tool = require('../src/index.js');
-
+const tool = require('../src/index.js');
 const original = [
 	{ id: 1, tag: 'apple', score: 71, age: 18 },
 	{ id: 2, tag: 'apple', score: 71, age: 18 },

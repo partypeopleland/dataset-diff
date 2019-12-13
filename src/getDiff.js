@@ -19,7 +19,7 @@ function getDiff([dataSet1, dataSet2], condition) {
 			if (d[prop] === null && val === '') {
 				return true;
 			}
-			return d[prop] == val;
+			return d[prop].toString() === val;
 		};
 		let ary = e.split('-');
 		let data = [...set2];
