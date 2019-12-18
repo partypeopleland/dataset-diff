@@ -1,5 +1,3 @@
-
-
 ## getDiff([dataSet1,dataSet2], compareCondition)
 
 Provide two sets of collection and comparison conditions, and return the difference data

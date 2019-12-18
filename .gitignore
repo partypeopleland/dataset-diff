@@ -2,7 +2,7 @@
 
 # Created by https://www.gitignore.io/api/windows,visualstudiocode,node
 # Edit at https://www.gitignore.io/?templates=windows,visualstudiocode,node
-
+.idea
 ### Node ###
 # Logs
 logs
