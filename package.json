@@ -4,7 +4,7 @@
 	"description": "get Diff data",
 	"main": "./src/index.js",
 	"scripts": {
-		"test": "mocha",
+		"test": "mocha --recursive",
 		"coverage": "nyc npm run test"
 	},
 	"keywords": [

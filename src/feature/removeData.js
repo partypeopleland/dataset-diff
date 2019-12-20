@@ -8,7 +8,7 @@ var util = require('../util/index.js');
  */
 function removeData(source, removeData, condition){
     let result = [...source]
-    let removeList = util.getRemoveList(source, removeData, condition);
+    let removeList = util.getRemoveList(source, removeData, condition);``
     removeList.forEach(item => {
         let removeIndex = result.findIndex(
             d =>
