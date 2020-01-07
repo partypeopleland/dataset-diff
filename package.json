@@ -16,14 +16,10 @@
 		"@babel/core": "^7.7.5",
 		"chai": "^4.2.0",
 		"mocha": "^6.2.2",
-		"nyc": "^14.1.1",
-		"webpack": "^4.41.2"
+		"nyc": "^14.1.1"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/partypeopleland/dataset-diff.git"
-	},
-	"dependencies": {
-		"testcafe": "^1.7.0"
 	}
 }
